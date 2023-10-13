@@ -14,7 +14,7 @@
 
 ### Проектная деятельность онлайн курса «Симулятор аналитика»:
 
-[Провел A/A тест](https://github.com/Arseniy2001/23/blob/master/main%C2%A0—%20копия.c) по метрике CTR с помощью t-testа, извлекая 10000 раз подборки по 500 пользователей 
+[Провел A/A тест](https://github.com/Arseniy2001/Analyst_simulator/blob/main/AA.ipynb) по метрике CTR с помощью t-testа, извлекая 10000 раз подборки по 500 пользователей 
 <br/>[Провел A/B тесты](https://github.com/Arseniy2001/Analyst_simulator/blob/main/AB_1.ipynb), используя различные методы: t-test, тест Манна Уитни, t-test со сглаженным CTR, Пуассоновский бутстреп, t-test поверх букетного преобразования 
 <br/>[A/B тест](https://github.com/Arseniy2001/Analyst_simulator/blob/main/AB_2.ipynb)    по метрике линеаризованных лайков от Яндекса для отношений вида  x/y 
 
