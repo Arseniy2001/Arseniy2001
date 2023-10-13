@@ -1,5 +1,5 @@
 # Arseniy2001
-### :metal: О себе:
+### О себе:
 <ul>
 <li>Уверенно пишу код на Python
 <li>Знаю библиотеками Pandas, NumPy, Matplotlib, Seaborn 
@@ -12,14 +12,14 @@
 
 
 
-### :book: Проектная деятельность онлайн курса «Симулятор аналитика»:
+### Проектная деятельность онлайн курса «Симулятор аналитика»:
 
-[Провел A/A тест] по метрике CTR с помощью t-testа, извлекая 10000 раз подборки по 500 пользователей  (https://github.com/Arseniy2001/23/blob/master/main%C2%A0—%20копия.c)
-[Провел A/B тесты], используя различные методы: t-test, тест Манна Уитни, t-test со сглаженным CTR, Пуассоновский бутстреп, t-test поверх букетного преобразования (https://github.com/Arseniy2001/Analyst_simulator/blob/main/AB_1.ipynb)
-[A/B тест] по метрике линеаризованных лайков от Яндекса для отношений вида  x/y(https://github.com/Arseniy2001/Analyst_simulator/blob/main/AB_2.ipynb)    
+[Провел A/A тест](https://github.com/Arseniy2001/23/blob/master/main%C2%A0—%20копия.c) по метрике CTR с помощью t-testа, извлекая 10000 раз подборки по 500 пользователей 
+[Провел A/B тесты](https://github.com/Arseniy2001/Analyst_simulator/blob/main/AB_1.ipynb), используя различные методы: t-test, тест Манна Уитни, t-test со сглаженным CTR, Пуассоновский бутстреп, t-test поверх букетного преобразования 
+[A/B тест](https://github.com/Arseniy2001/Analyst_simulator/blob/main/AB_2.ipynb)    по метрике линеаризованных лайков от Яндекса для отношений вида  x/y 
 
 Прогнозирование метрик. 
-[Оценил эффективность флешмоба], который проводился в приложении, с помощью библиотеки CausalImpact. (https://github.com/Arseniy2001/Analyst_simulator/blob/main/MP_1.ipynb)
+[Оценил эффективность флешмоба]https://github.com/Arseniy2001/Analyst_simulator/blob/main/MP_1.ipynb), который проводился в приложении, с помощью библиотеки CausalImpact. (
 Спрогнозировал активность пользователей в ближайший месяц с помощью библиотеки orbit (https://github.com/Arseniy2001/Analyst_simulator/blob/main/MP_2.ipynb)
 
 Построение ETL-Пайплайна в Airflow.  
