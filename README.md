@@ -32,5 +32,9 @@
 <br/>Написал [систему алертов](https://github.com/Arseniy2001/Analyst_simulator/blob/main/Senya_alert.py) для приложения. В случае аномального отклонения метрик, в чат телеграмма приходило оповещение. DAG срабатывал каждые 15 минут. 
 
 
+### Анализ данных на Pandas:
+Работа с [таблицей Bookings](https://github.com/Arseniy2001/Practice_pandas/blob/main/Hotel.ipynb)
+
+
 
 
